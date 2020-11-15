@@ -1,0 +1,9 @@
+Best choice for run this code is use MU editor
+folder images paste to C:/Users/*user*/mu_code
+via MU editor (BBC Micro:bit mode) flash space_micro.py to connected BBC micro:bit
+via MU editor (Pygame Zero mode) play space_invaders.py  
+
+Controls  
+ship move left - tilt microbit to left
+ship move right - tilt microbit to right 
+shoot - press microbit button A 
